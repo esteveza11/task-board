@@ -48,12 +48,4 @@ THEN the saved tasks persist
 
 
 
-Link to deployed application: 
-
-
-
-The URL of the GitHub repository, with a unique name and a README describing the project
-
-
-
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Link to deployed application: https://esteveza11.github.io/task-board/
